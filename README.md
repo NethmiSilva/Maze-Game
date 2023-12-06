@@ -47,3 +47,7 @@ Up.java, Down.java, Left.java, Right.java: Extend MovementDecorator, providing d
 Clone the repository to your local machine.
 Compile and run ./gradlew run 
 Follow the prompts to enter the maze file name and navigate through the maze using specified commands.
+
+
+![image](https://github.com/NethmiSilva/Maze-Game/assets/91644460/2ff90b0e-ebf1-4a4b-9677-4dec01b14f9f)
+

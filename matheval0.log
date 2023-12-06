@@ -1,0 +1,546 @@
+Dec 06, 2023 5:47:36 PM edu.curtin.app.App main
+INFO: Printing main menu 
+Dec 06, 2023 5:47:36 PM edu.curtin.app.App main
+INFO: Main function. Prompt user to enter file name
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Reading info from file 'map.txt'
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Checks if the file is empty
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Border assignCharacters
+INFO: Creates the borders for the maze
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Array made
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical walls to the left
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal walls to the north
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Player is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Player is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Player is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Player is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Player is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Player is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Player is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Player is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Player is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Player is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: End(winning) point added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: End(winning) point added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: End(winning) point added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: End(winning) point added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: End(winning) point added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: End(winning) point added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: End(winning) point added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: End(winning) point added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: End(winning) point added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: End(winning) point added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: End(winning) point added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: End(winning) point added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: End(winning) point added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Vertical door to the west added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Horizontal doors to the north added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Key is added
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Text file read and characters added to array
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Read readFile
+INFO: Messages
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Link assignCharacters
+INFO: Adds joining characters to link characters in the maze
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Link assignCharacters
+INFO: Adds ┬
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Link assignCharacters
+INFO: Adds ┬
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Link assignCharacters
+INFO: Adds └
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Link assignCharacters
+INFO: Adds ├ 
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Link assignCharacters
+INFO: Adds ┐
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Link assignCharacters
+INFO: Adds ┌ 
+Dec 06, 2023 5:49:08 PM edu.curtin.app.Move userInput
+INFO: Getting input to move player
+Dec 06, 2023 5:49:08 PM edu.curtin.app.ViewMovement print
+INFO: Printing maze 
+Dec 06, 2023 5:49:12 PM edu.curtin.app.Move userInput
+INFO: Player moved up
+Dec 06, 2023 5:49:12 PM edu.curtin.app.Up move
+INFO: Moving player up
+Dec 06, 2023 5:49:12 PM edu.curtin.app.MovementDecorator searchRow
+INFO: Searching row number of player
+Dec 06, 2023 5:49:12 PM edu.curtin.app.MovementDecorator searchCol
+INFO: Searching column number of player
+Dec 06, 2023 5:49:12 PM edu.curtin.app.Clear clearScreen
+INFO: Clearing console
+Dec 06, 2023 5:49:12 PM edu.curtin.app.ViewMovement print
+INFO: Printing maze 
+Dec 06, 2023 5:49:14 PM edu.curtin.app.Move userInput
+INFO: Player moved down
+Dec 06, 2023 5:49:14 PM edu.curtin.app.Down move
+INFO: Moving player down
+Dec 06, 2023 5:49:14 PM edu.curtin.app.MovementDecorator searchRow
+INFO: Searching row number of player
+Dec 06, 2023 5:49:14 PM edu.curtin.app.MovementDecorator searchCol
+INFO: Searching column number of player
+Dec 06, 2023 5:49:14 PM edu.curtin.app.Clear clearScreen
+INFO: Clearing console
+Dec 06, 2023 5:49:14 PM edu.curtin.app.ViewMovement print
+INFO: Printing maze 
+Dec 06, 2023 5:49:15 PM edu.curtin.app.Move userInput
+INFO: Player moved down
+Dec 06, 2023 5:49:15 PM edu.curtin.app.Down move
+INFO: Moving player down
+Dec 06, 2023 5:49:15 PM edu.curtin.app.MovementDecorator searchRow
+INFO: Searching row number of player
+Dec 06, 2023 5:49:15 PM edu.curtin.app.MovementDecorator searchCol
+INFO: Searching column number of player
+Dec 06, 2023 5:49:15 PM edu.curtin.app.Clear clearScreen
+INFO: Clearing console
+Dec 06, 2023 5:49:15 PM edu.curtin.app.ViewMovement print
+INFO: Printing maze 
+Dec 06, 2023 5:49:16 PM edu.curtin.app.Move userInput
+INFO: Player moved down
+Dec 06, 2023 5:49:16 PM edu.curtin.app.Down move
+INFO: Moving player down
+Dec 06, 2023 5:49:16 PM edu.curtin.app.MovementDecorator searchRow
+INFO: Searching row number of player
+Dec 06, 2023 5:49:16 PM edu.curtin.app.MovementDecorator searchCol
+INFO: Searching column number of player
+Dec 06, 2023 5:49:16 PM edu.curtin.app.Clear clearScreen
+INFO: Clearing console
+Dec 06, 2023 5:49:16 PM edu.curtin.app.ViewMovement print
+INFO: Printing maze 
+Dec 06, 2023 5:49:19 PM edu.curtin.app.Move userInput
+INFO: Player moved right
+Dec 06, 2023 5:49:19 PM edu.curtin.app.MovementDecorator searchRow
+INFO: Searching row number of player
+Dec 06, 2023 5:49:19 PM edu.curtin.app.MovementDecorator searchCol
+INFO: Searching column number of player
+Dec 06, 2023 5:49:19 PM edu.curtin.app.Clear clearScreen
+INFO: Clearing console
+Dec 06, 2023 5:49:19 PM edu.curtin.app.ViewMovement print
+INFO: Printing maze 
+Dec 06, 2023 5:49:20 PM edu.curtin.app.Move userInput
+INFO: Player moved right
+Dec 06, 2023 5:49:20 PM edu.curtin.app.MovementDecorator searchRow
+INFO: Searching row number of player
+Dec 06, 2023 5:49:20 PM edu.curtin.app.MovementDecorator searchCol
+INFO: Searching column number of player
+Dec 06, 2023 5:49:20 PM edu.curtin.app.Clear clearScreen
+INFO: Clearing console
+Dec 06, 2023 5:49:20 PM edu.curtin.app.ViewMovement print
+INFO: Printing maze 
+Dec 06, 2023 5:49:21 PM edu.curtin.app.Move userInput
+INFO: Player moved right
+Dec 06, 2023 5:49:21 PM edu.curtin.app.MovementDecorator searchRow
+INFO: Searching row number of player
+Dec 06, 2023 5:49:21 PM edu.curtin.app.MovementDecorator searchCol
+INFO: Searching column number of player
+Dec 06, 2023 5:49:21 PM edu.curtin.app.Clear clearScreen
+INFO: Clearing console
+Dec 06, 2023 5:49:21 PM edu.curtin.app.ViewMovement print
+INFO: Printing maze 
+Dec 06, 2023 5:49:22 PM edu.curtin.app.Move userInput
+INFO: Player moved right
+Dec 06, 2023 5:49:22 PM edu.curtin.app.MovementDecorator searchRow
+INFO: Searching row number of player
+Dec 06, 2023 5:49:22 PM edu.curtin.app.MovementDecorator searchCol
+INFO: Searching column number of player
+Dec 06, 2023 5:49:22 PM edu.curtin.app.Clear clearScreen
+INFO: Clearing console
+Dec 06, 2023 5:49:22 PM edu.curtin.app.ViewMovement print
+INFO: Printing maze 
+Dec 06, 2023 5:49:24 PM edu.curtin.app.Move userInput
+INFO: Player moved right
+Dec 06, 2023 5:49:24 PM edu.curtin.app.MovementDecorator searchRow
+INFO: Searching row number of player
+Dec 06, 2023 5:49:24 PM edu.curtin.app.MovementDecorator searchCol
+INFO: Searching column number of player
+Dec 06, 2023 5:49:24 PM edu.curtin.app.Clear clearScreen
+INFO: Clearing console
+Dec 06, 2023 5:49:24 PM edu.curtin.app.ViewMovement print
+INFO: Printing maze 
